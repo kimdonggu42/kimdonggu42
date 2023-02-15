@@ -1,5 +1,5 @@
 <h1>Hi, Nice to see you</h1>
-Welcome to my Github page!
+Welcome to my Github page.
 
 <h2>My tect stack</h2>
 <div>
