@@ -1,6 +1,7 @@
-[<h1>Hello World</h1>
+<h1>Hi, Nice to see you</h1>
+Welcome to my Github page!
 
-<h2>Things I code with</h2>
+<h2>My tect stack</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
