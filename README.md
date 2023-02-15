@@ -2,4 +2,4 @@
 
 <h2>Things I code with</h2>
 ***
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=#61DAFB"/>
