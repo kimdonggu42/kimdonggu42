@@ -11,7 +11,7 @@
 
 <h3>About me</h3>
 <div>
-  <img src="https://img.shields.io/badge/kdonggoo44@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kdonggoo44@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a href="https://velog.io/@donggoo">
     <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
   </a>
