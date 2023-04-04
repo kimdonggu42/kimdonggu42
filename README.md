@@ -1,3 +1,4 @@
+<div align=center>
 <h1>Hi, Nice to see you</h1>
 Welcome to my Github page.
 
@@ -9,4 +10,4 @@ Welcome to my Github page.
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdonggu42&layout=compact)](https://github.com/kimdonggu42/github-readme-stats)
+</div>
