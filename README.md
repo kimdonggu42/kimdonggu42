@@ -1,4 +1,4 @@
-[<h1>Hi, Nice to see you</h1>
+<h1>Hi, Nice to see you</h1>
 
 <h3>Tech stack</h3>
 <div>
