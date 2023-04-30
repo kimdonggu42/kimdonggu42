@@ -1,4 +1,4 @@
-<h2>Hi, Nice to see you</h2>
+<h2>안녕하세요! 김동구입니다.</h2>
 
 <h3>Tech stack</h3>
 <div>
