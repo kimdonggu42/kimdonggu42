@@ -1,6 +1,6 @@
 <h2>안녕하세요 반갑습니다!</h2>
 
-<h3>Tech stack</h3>
+<h3>⚙️ Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
-<h3>About me</h3>
+<h3>🚀 About Me</h3>
 <div>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   <a href="https://velog.io/@donggoo">
