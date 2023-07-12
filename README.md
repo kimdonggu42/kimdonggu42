@@ -13,4 +13,4 @@
 
 <br>
 
-💡 *For More Info...* **[BLOG](https://velog.io/@donggoo)** | **[PORTFOLIO](https://kimdonggu-portfolio.web.app/)**
+💡 *For More Info* **[BLOG](https://velog.io/@donggoo)** | **[PORTFOLIO](https://kimdonggu-portfolio.web.app/)**
