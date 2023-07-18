@@ -1,4 +1,4 @@
-## 👋🏻 김동구 *Donggu Kim*
+## 👋🏻 김동구 Donggu Kim
 #### Web Frontend Developer
 
 <div>
