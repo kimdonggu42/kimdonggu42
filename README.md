@@ -1,5 +1,5 @@
-## 👋🏻 김동구 *Web Frontend Developer*
-제 깃허브를 방문해주셔서 감사합니다 :) <br>
+## 👋🏻 김동구 *Donggu Kim*
+#### Web Frontend Developer
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
