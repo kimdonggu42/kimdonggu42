@@ -1,4 +1,4 @@
-## 👋🏻 Donggu Kim
+## 👋🏻 Thank you for visiting my GitHub
 ### Web Frontend Developer
 
 <div>
