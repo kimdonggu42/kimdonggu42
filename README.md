@@ -13,4 +13,3 @@
 
 ## 💁🏻‍♂️ About Me
 - [Blog](https://velog.io/@donggoo)
-- [Portfolio](https://kimdonggu-portfolio.web.app/)
