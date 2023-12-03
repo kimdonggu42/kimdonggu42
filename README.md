@@ -11,5 +11,6 @@
 - 2023 오픈소스 컨트리뷰션 아카데미 Githru-vscode-ext 멘티 (2023.07 ~ 2023.10)
 - kakao x goorm 구름톤 6기 Frontend Developer (2023.07)
 
-## 🏅 Award
+## 🏅 Awards
+- 2023 오픈소스 컨트리뷰션 아카데미 한국IT비즈니스진흥협회장상
 - kakao x goorm 구름톤 6기 최우수상
