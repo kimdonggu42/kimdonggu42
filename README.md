@@ -9,8 +9,9 @@
 </div>
 
 ## 🔥 Activities
+- JECT 3기 FE Developer (2025.05 ~ now)
 - 2023 오픈소스 컨트리뷰션 아카데미 Githru-vscode-ext 멘티 (2023.07 ~ 2023.10)
-- kakao x goorm 구름톤 6기 Frontend Developer (2023.07)
+- kakao x goorm 구름톤 6기 FE Developer (2023.07)
 
 ## 🏅 Awards
 - 2023 오픈소스 컨트리뷰션 아카데미 한국IT비즈니스진흥협회장상
